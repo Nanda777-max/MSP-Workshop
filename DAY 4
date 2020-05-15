@@ -1,0 +1,11 @@
+Session conducted by Akmar Nafi
+CSS styles our content specified in HTML
+It can be included within <style> tags
+It comprises of using selectors which are basically the tags on html where we want to include our styling
+div{} means styling <div> tags on HTML .
+One such styling is background-color which when written under a selector provides it with a specified color
+A color can be specified by either saying the name or a hexacode or rgb code.
+Its width and height can be specified by pixels or percentages
+A certain tag can be selected by further specifications such as id and class
+A Box model was later talked about
+It involved spacings which can be adjusted by the attributes border,margin and padding.
