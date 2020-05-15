@@ -1,0 +1,11 @@
+Session conducted by Thameem.
+It first began by giving the download link of the desktop app Github.
+It then included the comparison of the control systems : Version and Distributed.
+Version Control System keeps track of changes to files and helps to manage them.
+Distributed Control System has no central server and everyone can make changes without internet access.
+Then an overview of how git works was given.
+Snapshots were explained as how git keeps track of our code history.
+Commit is the act of creating a Snapshot.
+Repositories are a collection of files.
+All commits live on some branch.
+Then some commands were later discussed.
