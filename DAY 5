@@ -1,0 +1,8 @@
+Session taken by Akmar Nafi
+JS of a webpage is written under the script tag of HTML
+Input tags of an HTML indicate areas in whuch data can be inputed and can be called upon by its id or class
+This data can be collected via JS using a function that can be called maybe using an onclick attribute on a link or a button
+console.log() is used to print something which can viewed by showing the console of that page
+var and let are used to define a variabe ,string , array and a character
+.value obtains the value of a variable
+alert() pops up a box to print something written in the parenthesis
