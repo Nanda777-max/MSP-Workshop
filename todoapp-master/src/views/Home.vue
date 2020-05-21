@@ -100,7 +100,7 @@
 
             addtodo() {
 
-if(this.inputvalue.trim( ).length=0){
+if(this.inputvalue.trim( ).length==0){
     return
 }
                 var newtodo = {id: this.$store.state.count, text: this.inputvalue, completed: false}
