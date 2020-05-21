@@ -22,7 +22,7 @@
 
 
         <div v-for="item in $store.state.todos" :key="item" >
-            <div v-if="item.completed===false">
+            <div v-if="item.completed===true">
               
               <div class="row" style="border-bottom: 1px solid lightgrey ">
     <div class="col-2" style="border-right: 1px solid lightgrey  ;padding-top: 5px">
