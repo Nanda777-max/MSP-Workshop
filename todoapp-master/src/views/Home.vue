@@ -87,8 +87,7 @@
 
 
                 inputvalue: "",
-                count: 0,
-                completed: 0,
+                
 
 
                 
@@ -139,7 +138,7 @@ if(this.inputvalue.trim( ).length==0){
                 }
 
 
-                this.completed++
+                this.$store.state.completed++
 
             }
 
